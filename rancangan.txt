@@ -1,0 +1,22 @@
+g1. ALPRO (3 sks)
+2. MATDIS (3 sks)
+3. PWEB (3 sks)
+4. AKHLAK (2 sks)
+5. ARSIKOM (3 sks)
+6. ALJABAR (3 sks)
+7. PKN (2 sks)
+8. B. INDO (2 sks)
+9. Keluar
+Pilih matkul yang ingin diambil : 2
+Pilih matkul yang ingin diambil : 3
+Pilih matkul yang ingin diambil : 4
+Anda memilih :
+1. Matdis 	(3 SKS)
+2. PWEB 	(3 SKS)
+3. Akhlak 	(2 SKS)
+Total 		:8 SKS
+Biaya		:1.200.000
+Diskon		:300.000
+Biaya Total	:900.000
+
+//g++ -o main main.cpp
